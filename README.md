@@ -8,4 +8,4 @@ Discord.Website is a collection of micro-tools for Discord users and bot develop
 
 ## [Embed](https://embed.discord.website)
 **Embed** is a fork of [leovoel](https://github.com/leovoel)'s [embed-visualizer](https://leovoel.github.io/embed-visualizer/).  
-[🔗 embed.discord.website](https://txt.discord.website)
+[🔗 embed.discord.website](https://embed.discord.website)
