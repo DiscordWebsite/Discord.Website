@@ -1,4 +1,7 @@
-Discord.Website is a collection of micro-tools for Discord users and bot developers
+Discord.Website is a collection of micro-tools for Discord users and bot developers.  
+We are not affliated with [DiscordApp](https://discordapp.com).  
+If you would like to contribute to an existing project, simply open an issue and/or create a pull request.  
+If you would like to create a new project, please contact an existing organization member.  
 
 
 ## [Txt](https://txt.discord.website)
