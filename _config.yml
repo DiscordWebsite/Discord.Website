@@ -1,7 +1,7 @@
-remote_theme: barryclark/jekyll-now
+theme: jekyll-theme-architect
+title: Discord.Website
 name: Discord.Website
 description: Various micro-tools for Discord users and bot developers
+show_downloads: false
 avatar: https://avatars3.githubusercontent.com/u/44672098?v=4
-footer-links:
-  email: info@discord.website
-  github: DiscordWebsite/Discord.Website
+icon: https://avatars3.githubusercontent.com/u/44672098?v=4
